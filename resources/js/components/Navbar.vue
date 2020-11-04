@@ -1,0 +1,5 @@
+<template>
+    <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">Events</a>
+    </nav>
+</template>
